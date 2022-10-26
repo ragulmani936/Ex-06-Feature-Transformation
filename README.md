@@ -92,6 +92,6 @@ plt.show()
 ![output](https://github.com/ragulmani936/Ex-06-Feature-Transformation/blob/main/img%207.jpg)
 ![output](https://github.com/ragulmani936/Ex-06-Feature-Transformation/blob/main/img%208.jpg)
 ![output](https://github.com/ragulmani936/Ex-06-Feature-Transformation/blob/main/img%209.jpg)
-![output](https://github.com/ragulmani936/Ex-06-Feature-Transformation/blob/main/img%20110.jpg)
+![output](https://github.com/ragulmani936/Ex-06-Feature-Transformation/blob/main/img%2010.jpg)
 ## RESULT:
 Thus feature transformation is done for the given dataset.
