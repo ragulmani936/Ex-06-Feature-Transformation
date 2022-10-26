@@ -83,15 +83,15 @@ plt.show()
 ~~~
 
 ## OUTPUT:
-![outout]()
-![output]()
-![output]()
-![output]()
-![output]()
-![output]()
-![output]()
-![output]()
-![output]()
-![output]()
+![outout](https://github.com/ragulmani936/Ex-06-Feature-Transformation/blob/main/img%201.jpg)
+![output](https://github.com/ragulmani936/Ex-06-Feature-Transformation/blob/main/img%202.jpg)
+![output](https://github.com/ragulmani936/Ex-06-Feature-Transformation/blob/main/img%203.jpg)
+![output](https://github.com/ragulmani936/Ex-06-Feature-Transformation/blob/main/img%204.jpg)
+![output](https://github.com/ragulmani936/Ex-06-Feature-Transformation/blob/main/img%205.jpg)
+![output](https://github.com/ragulmani936/Ex-06-Feature-Transformation/blob/main/img%206.jpg)
+![output](https://github.com/ragulmani936/Ex-06-Feature-Transformation/blob/main/img%207.jpg)
+![output](https://github.com/ragulmani936/Ex-06-Feature-Transformation/blob/main/img%208.jpg)
+![output](https://github.com/ragulmani936/Ex-06-Feature-Transformation/blob/main/img%209.jpg)
+![output](https://github.com/ragulmani936/Ex-06-Feature-Transformation/blob/main/img%20110.jpg)
 ## RESULT:
 Thus feature transformation is done for the given dataset.
